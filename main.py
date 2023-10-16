@@ -521,12 +521,16 @@ elif choose == "Experience":
             """
             ## Research Internship
 
-            ### Working for professor
+            Working under a Professor
             
-            #### (University of Iowa)
-        
-            - **Large learning models**
-            - **Mutli models**
+            ## Dinesh Jackson Samuel 
+               ### University of Iowa
+            
+            
+            - **Working with Large Learning Models**
+            - **Multi models**
+            - **Image segmentations**
+
             """
         )
 
